@@ -1,4 +1,4 @@
-Google Summer of Code 2020 Coding exercise
+
 ==========================================
 
 ### Goal: Implement a very basic thesaurus
