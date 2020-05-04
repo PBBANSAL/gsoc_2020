@@ -1,5 +1,4 @@
 
-==========================================
 
 ### Goal: Implement a very basic thesaurus
 
